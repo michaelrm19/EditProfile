@@ -23,4 +23,5 @@ Here are instructions on how to run this mobile application on MacOS. Please mak
 7. On the top navigation bar, click on product -> Run. The iOS iphone 15 simulator should show up on your screen.
 8. Important Notes: The iPhone 15 simulator may take a while to boot up the EditProfile mobile application for the first time. When booting or loading the mobile application, it is completely normal for the iPhone simulator to show a blank white screen (signaling that EditProfile is running). Bringing up your photo library when updating your profile picture or bringing up the iPhone keyboard may be slightly slow dependent on how powerful your MacOS device is. The overall "speed" of the simulation will depend on your MacOS device, so please be patient! All of the functionalities required are there.
 
-## Any Questions or Concerns? Please send me an email @mnguyen2000@gmail.com for clarifications or to request a Demo of the mobile application.
+## Any Questions or Concerns?
+Please send me an email @mnguyen2000@gmail.com for clarifications or to request a Demo of the mobile application.
