@@ -18,7 +18,7 @@ Here are instructions on how to run this mobile application on MacOS. Please mak
 2. Install XCode 15. https://apps.apple.com/us/app/xcode/id497799835?mt=12
 3. Once Installed, launch XCode so that it can complete its first launch.
 4. A dialog will be presented that indicates which Simulator runtimes are built-in and which Simulator runtimes you may download. Please make sure you have the iOS Simulators downloaded to run a simulation of the mobile application.
-5. Once set up, Open EditProfile.xcodeproj in XCode.
+5. Once set up, Open EditProfile in XCode.
 6. On the top navigation bar, click on Product -> Destination -> Under iOS Simulators, select iPhone 15 and make sure this is checkmarked.
 7. On the top navigation bar, click on Product -> Run. The iOS iphone 15 simulator should show up on your screen.
 8. Important Notes: The iPhone 15 simulator may take a while to boot up the EditProfile mobile application for the first time. When booting or loading the mobile application, it is completely normal for the iPhone simulator to show a blank white screen (signaling that EditProfile is running and trying to load the mobile application). Bringing up your photo library when updating your profile picture or bringing up the iPhone keyboard when editting first name, last name, bio, etc. may be slightly slow dependent on how powerful your MacOS device is. The overall "speed" of the simulation will depend on your MacOS device, so please be patient! All of the functionalities expected of this mobile application have been tested and are fully functional. Data will not be stored or saved in a database, so the application will completely refresh if you completely restart the mobile application.
